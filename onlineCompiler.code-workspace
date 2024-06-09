@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "onlineCompiler",
+			"path": "."
+		},
+		{
+			"name": "codemirror-5.65.16",
+			"path": "../codemirror/codemirror-5.65.16"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "onlineCompiler"
+	}
+}
